@@ -1,0 +1,8 @@
+body 
+{ 
+    color: white;
+     background:linear-gradient(#fcd305 40%,#fc058d 40%,#e240ff 60%) ; 
+} 
+.heading { width: 80%; font-size: 22px; } 
+#camera { border: 2px dashed black; width: 350px; height: 300px; } 
+.name_of_objects, #result_object_name , #result_object_accuracy { color: #fc058d; font-size: 30px;}
